@@ -1,3 +1,8 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 ---
 permalink: /
 title: "About me"
@@ -19,9 +24,14 @@ and my Bachelor's degree in Software Engineering department at Xi'an Jiaotong Un
 
 Email: my first name at cmu.edu
 
+---
+# News
 
-
-
+|               |                                                                                                                                                                                                                                        |
+|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Oct 25, 2022  | Snap Research Fellowship Semi-Finalist                                                                                                                                                                                                 |
+| July 26, 2022 | Gave a talk titled ["The Role of Masks in Mitigating Viral Spread on Networks"](https://arxiv.org/abs/2110.04398) at [NetSci 2022](https://easychair.org/smart-program/NetSci2022/index.html)!                                                                         |
+| May 5, 2021   | [Analysis of the impact of mask-wearing in viral spread: Implications for COVID-19](https://ieeexplore.ieee.org/abstract/document/9482733) is accepted at [ACC](https://ieeexplore.ieee.org/xpl/conhome/1000030/all-proceedings) 2021! |
 
 
 
