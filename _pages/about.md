@@ -1,8 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 ---
 permalink: /
 title: "About me"
@@ -12,6 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 I am a first year Ph.D. student of Complex Systems joint Computational Social Science in
 Electrical and Computer Engineering ([ECE](https://www.ece.cmu.edu/)) department at Carnegie Mellon University (CMU).
