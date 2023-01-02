@@ -1,20 +1,26 @@
 ---
-title: "Teaching experience 1"
+title: "18665 - Advanced Probability & Statistics for Engineers"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: https://courses.ece.cmu.edu/18665
+venue: "Carnegie Mellon University, ECE"
+date: 2023 Spring
+location: "Pittsburgh, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[//]: # (This is a description of a teaching experience. You can use markdown like any other post.)
 
-Heading 1
-======
+[//]: # ()
+[//]: # (Heading 1)
 
-Heading 2
-======
+[//]: # (======)
 
-Heading 3
-======
+[//]: # ()
+[//]: # (Heading 2)
+
+[//]: # (======)
+
+[//]: # ()
+[//]: # (Heading 3)
+
+[//]: # (======)
