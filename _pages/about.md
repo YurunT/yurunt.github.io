@@ -25,6 +25,21 @@ and my Bachelor's degree in Software Engineering department at Xi'an Jiaotong Un
 Email: my first name at cmu.edu
 
 ---
+
+# About my research
+
+I am fascinated by graphs. 
+The violation of the iid assumption is what makes things harsh but also the most intriguing and powerful element.
+My research focuses on an interdisciplinary field of graph theory, network science, complex systems, and dynamical processes, 
+boosted by applied probability and statistics. 
+The results generally shed lights on various scientific domains, such as computer algorithms (e.g., stats of BFS over graphs), 
+robustness of large systems with initial shocks, cascades in social and economic systems, network epidemics, organizational science, etc.
+Our research concentrates on the generic features of these phenomenon from a connected system perspective despite other social, economic, and physical mechanisms.
+We derive fundamental insights into the understanding of complex systems, and provide assistance into the decision making in face of social and economic interests.    
+
+
+
+---
 # News
 
 |               |                                                                                                                                                                                                                                        |
