@@ -15,26 +15,29 @@ Education
 * M.S. in Electrical and Computer Engineering, Carnegie Mellon University, 2021
 * Ph.D in Electrical and Computer Engineering, Carnegie Mellon University, 2026 (expected)
 
+Selected honors
+======
+* William J. Happel Fellowship, Carnegie Mellon Univeristy, 2023
+* SNAP Research Fellowship semi-finalist, SNAP Inc. 2022
+* Dean's Fellowship, Carnegie Institute of Technology, Carnegie Mellon University, 2021
+* University Scholarship, School of Software Engineering (SE), XJTU, 2018 Awarded to **batch topper**
+* Suzhou High-Tech Zone Student Scholarship **1st prize**, XJTU, 2017 (Awarded to 3 students in 5 schools)
+* Fuji Xerox (China) Scholarship: School of SE, XJTU, 2016 (Awarded to 3 students in School of SE)
+* MCM Excellence Award, The Mathematical Contest in Modeling, Xi'an China (regional level), 2016
+* Excellent Student of the year, Chongying College, XJTU, 2016, 2017, 2018
+* CUMCM 3rd prize _Provincial level_
+* Chinese Olympiad _provincial level_, 2015, 3rd position in Physics and Chemistry.
+
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb 2018: Big Data Engineeer
+  * Sichuan Hwadee Information Technology Co., Ltd.
+  * Duties included: Developed an ELK log analysis visualization framework
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019 - 2020: Research Assistant
+  * Thaibev
+  * Duties included: Data-driven Smart marketing and promotions design
+
 
 Publications
 ======
@@ -56,4 +59,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* _Reviewer_, Journal of Communications and Networks, 2021
+* _Web & Publicity Committee_ for [Pittsburgh Women in Mathematics & Computing Symposium](https://wmcs-2023.splashthat.com/), Feb 24, 2023
