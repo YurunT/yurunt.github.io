@@ -32,23 +32,23 @@ Work experience
 ======
 * Feb 2018: Big Data Engineeer
   * Sichuan Hwadee Information Technology Co., Ltd.
-  * Duties included: Developed an ELK log analysis visualization framework.
+  * Duties included: ELK log analysis visualization.
 
 * 2019 - 2020: Research Assistant
-  * Thaibev
+  * Thaibev, Bangkok, Thailand
   * Duties included: Data-driven Smart marketing and promotions design.  
 
 * 2020: Research Assistant
   * Advised by Prof Tze Meng Low
-  * Duties included: Applied Machine Learning (clustering, Auto-encoder).
+  * Duties included: Applied Machine Learning (e.g., clustering, Auto-encoders).
   
 * 2020: Research Assistant
   * Advised by Prof Hyong Kim
-  * Duties included: Customer Segmentation and Recommendation systems.
+  * Duties included: Recommendation systems. A/B testing.
 
 * 2021: Research Assistant
   * Advised by Prof Bhiksha Raj
-  * Duties included: Deep Learning Robustness. Deep infinite Mixture Latent Variable Models.
+  * Duties included: Deep Generative Models; Deep Learning Robustness. 
 
 * 2021: Research Assistant
   * Advised by Prof Kathleen M. Carley
@@ -56,7 +56,7 @@ Work experience
 
 * 2021: Research Assistant
   * Advised by Dr. [Pengfei Liu](http://pfliu.com/) (Now AP at Shanghai Jiaotong University)
-  * Duties included: Scientific Information Extraction.
+  * Duties included: Scientific Information Extraction. 
 
 
 Publications
