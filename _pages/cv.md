@@ -80,4 +80,4 @@ Teaching
 Service and leadership
 ======
 * _Reviewer_, Journal of Communications and Networks, 2021
-* _Web & Publicity Committee_ for [Pittsburgh Women in Mathematics & Computing Symposium](https://wmcs-2023.splashthat.com/), Feb 24, 2023
+* _Web & Publicity Committee_, _panel moderator_ for [Pittsburgh Women in Mathematics & Computing Symposium](https://wmcs-2023.splashthat.com/), Feb 24, 2023
