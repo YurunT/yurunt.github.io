@@ -54,7 +54,7 @@ Fundamental findings on understanding of complex systems are derived, providing 
 
 |           |                                                                                                                                                                                                        |
 |-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Jun05, 23 | Our journal paper "Role of masks in mitigating viral spread on networks" is accepted at **Physical Review E**!                                                                                         |
+| Jun05, 23 | Our journal paper "[Role of masks in mitigating viral spread on networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.014306)" is accepted at **Physical Review E**!                                                                                     |
 | Apr07, 23 | Poster "Spreading process with population heterogeneity over multi-layer networks" at CRA-WP 23.                                                                                                       |
 | Jan24, 23 | Selected as recipient for the **William J. Happel Fellowship** for the 2022-23 academic year at CMU ECE!                                                                                               |
 | Aug10, 22 | Talk titled  ['The role of mask wearing in mitigating viral spread on networks’](https://www.colorado.edu/amath/sites/default/files/attached-files/schedule_v8.pdf) at CCSS2022, CU Boulder, Colorado. |
