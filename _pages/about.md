@@ -54,7 +54,7 @@ Fundamental findings on understanding of complex systems are derived, providing 
 
 |           |                                                                                                                                                                                                        |
 |-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sep07, 23 | Selected to receive the Knight Fellowship at [S3D](https://s3d.cmu.edu/)@CMU!                                                                                                                          |
+| Sep07, 23 | Selected to receive the **Knight Fellowship** at [S3D](https://s3d.cmu.edu/)@CMU!                                                                                                                      |
 | Aug04, 23 | Our paper "[Spreading processes with population heterogeneity over multi-layer networks](https://arxiv.org/abs/2211.07479)" is accepted at IEEE Globecom2023!                                          |
 | Jun05, 23 | Our journal paper "[Role of masks in mitigating viral spread on networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.014306)" is accepted at **Physical Review E**!                    |
 | Apr07, 23 | Poster "Spreading process with population heterogeneity over multi-layer networks" at CRA-WP 23.                                                                                                       |
