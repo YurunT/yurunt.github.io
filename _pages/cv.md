@@ -17,6 +17,7 @@ Education
 
 Selected honors
 ======
+* Knight Fellowship, Software and Societal Systems Department, CMU, 2023
 * William J. Happel Fellowship, Carnegie Mellon Univeristy, 2023
 * SNAP Research Fellowship semi-finalist, SNAP Inc. 2022
 * Dean's Fellowship, Carnegie Institute of Technology, Carnegie Mellon University, 2021
