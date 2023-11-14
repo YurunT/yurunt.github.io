@@ -13,9 +13,9 @@ td, th {
 }
 </style>
 
-I am a second year Ph.D. student  in
+I am a Ph.D. Candidate (second year) in the 
 Electrical and Computer Engineering ([ECE](https://www.ece.cmu.edu/)) department at Carnegie Mellon University (CMU).
-I am interested in Applied Probability and Machine Learning, with a focus on networked systems.
+I am interested in applied maths, with a focus on **networked systems**.
 I am advised by Prof. [Osman Yagan](http://users.ece.cmu.edu/~oyagan/) at CMU ECE. 
 I am also a member of the [IDeaS Center](https://www.cmu.edu/ideas-social-cybersecurity/) at CMU.
 I am honored to collaborate with [Chai Wah Wu](https://researcher.watson.ibm.com/researcher/view.php?person=us-cwwu) from IBM T. J. Watson Research Center and [H. Vincent Poor](https://ece.princeton.edu/people/h-vincent-poor) and 
@@ -40,11 +40,10 @@ Email: my first name at cmu.edu
 [//]: # (I am fascinated by graphs. )
 
 [//]: # (The violation of the iid assumption is what makes things harsh but also the most intriguing and powerful element.)
-My current research focuses on an interdisciplinary field of graph theory, network science, complex systems, and dynamical processes, 
-boosted by applied probability and statistics. 
-The results generally shed lights on various scientific domains, such as computer algorithms (e.g., BFS over graphs, large components), 
-robustness of large systems (with initial shocks), cascades in social and economic systems, network epidemics, etc.
-I concentrate on the generic features of these phenomena (or systems) from a connected system perspective despite other physical mechanisms.
+My current research focuses on an interdisciplinary field of applied maths, random graph theory, especially in dynamical processes over complex systems.
+The results generally shed lights on various scientific domains, such as graph theory (e.g., emergence of Giant Components), 
+robustness and cascades in large connected systems, network epidemics, etc.
+[//]: # (I concentrate on the generic features of these phenomena &#40;or systems&#41; from a connected system perspective.)
 Fundamental findings on understanding of complex systems are derived, providing insights for decision-making and control strategies of downstream applications.    
 
 
