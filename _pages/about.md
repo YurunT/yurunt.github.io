@@ -13,7 +13,7 @@ td, th {
 }
 </style>
 
-I am a Ph.D. Candidate (second year) in the 
+I am a Ph.D. candidate (second year) in the 
 Electrical and Computer Engineering ([ECE](https://www.ece.cmu.edu/)) department at Carnegie Mellon University (CMU).
 I am interested in applied maths, with a focus on **networked systems**.
 I am advised by Prof. [Osman Yagan](http://users.ece.cmu.edu/~oyagan/) at CMU ECE. 
@@ -36,14 +36,9 @@ Email: my first name at cmu.edu
 ---
 
 # About my research
-
-[//]: # (I am fascinated by graphs. )
-
-[//]: # (The violation of the iid assumption is what makes things harsh but also the most intriguing and powerful element.)
 My current research focuses on an interdisciplinary field of applied maths, random graph theory, especially in dynamical processes over complex systems.
-The results generally shed lights on various scientific domains, such as graph theory (e.g., emergence of Giant Components), 
+The results generally shed lights on various scientific domains, such as graph theory (e.g., emergence of giant components), 
 robustness and cascades in large connected systems, network epidemics, etc.
-[//]: # (I concentrate on the generic features of these phenomena &#40;or systems&#41; from a connected system perspective.)
 Fundamental findings on understanding of complex systems are derived, providing insights for decision-making and control strategies of downstream applications.    
 
 
