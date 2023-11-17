@@ -37,19 +37,20 @@ Work experience
 
 * 2019 - 2020: Research Assistant
   * Thaibev, Bangkok, Thailand
-  * Duties included: Data-driven Smart marketing and promotions design.  
+  * Duties included: Data-driven personalized promotions design with A/B testing.
 
 * 2020: Research Assistant
-  * Advised by Prof Tze Meng Low
-  * Duties included: Applied Machine Learning (e.g., clustering, Auto-encoders).
+  * Advised by Prof Tze Meng Low, CMU ECE
+  * Duties included: Data analysis towards customer profiling and clustering.
   
 * 2020: Research Assistant
-  * Advised by Prof Hyong Kim
-  * Duties included: Recommendation systems. A/B testing.
+  * Advised by Prof Hyong Kim, CMU ECE
+  * Duties included: Time series forcasting of monthly sales using LSTM with teacher forcing.
 
 * 2021: Research Assistant
-  * Advised by Prof Bhiksha Raj
-  * Duties included: Deep Generative Models; Deep Learning Robustness. 
+  * Advised by Prof Bhiksha Raj, CMU LTI
+  * Duties included: Investigation of Deep Generative Models (e.g., infinite Gaussian mixture models), 
+  * and Deep Learning robustness (e.g., adversarial attacks on DL models). 
 
 * 2021: Research Assistant
   * Advised by Prof Kathleen M. Carley
@@ -57,7 +58,7 @@ Work experience
 
 * 2021: Research Assistant
   * Advised by Dr. [Pengfei Liu](http://pfliu.com/) (Now AP at Shanghai Jiaotong University)
-  * Duties included: Scientific Information Extraction. 
+  * Duties included: Scientific Information Extraction over documents. 
 
 
 Publications
