@@ -15,7 +15,7 @@ td, th {
 
 I am a Ph.D. candidate (second year) in the 
 Electrical and Computer Engineering ([ECE](https://www.ece.cmu.edu/)) department at Carnegie Mellon University (CMU).
-I am interested in applied maths, with a focus on **networked systems**.
+I am interested in applied probability and statistics, with a focus on **networked systems**.
 I am advised by Prof. [Osman Yagan](http://users.ece.cmu.edu/~oyagan/) at CMU ECE. 
 I am also a member of the [IDeaS Center](https://www.cmu.edu/ideas-social-cybersecurity/) at CMU.
 I am honored to collaborate with [Chai Wah Wu](https://researcher.watson.ibm.com/researcher/view.php?person=us-cwwu) from IBM T. J. Watson Research Center and [H. Vincent Poor](https://ece.princeton.edu/people/h-vincent-poor) and 
@@ -36,10 +36,10 @@ Email: my first name at cmu.edu
 ---
 
 # About my research
-My current research focuses on an interdisciplinary field of applied maths, random graph theory, especially in dynamical processes over complex systems.
+My current research focuses on an interdisciplinary field of applied probability and statistics, random graph theory, especially in dynamical processes over complex systems.
 The results generally shed lights on various scientific domains, such as graph theory (e.g., emergence of giant components), 
 robustness and cascades in large connected systems, network epidemics, etc.
-Fundamental findings on understanding of complex systems are derived, providing insights for decision-making and control strategies of downstream applications.    
+Analytical findings on understanding of complex systems are derived, providing insights for decision-making and control strategies of downstream applications.    
 
 
 
