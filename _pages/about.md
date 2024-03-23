@@ -28,7 +28,8 @@ td, th {
 [//]: # ([Simon A. Levin]&#40;https://slevin.princeton.edu/&#41; from Princeton University. )
 I am a Ph.D. candidate (third year) in the Electrical and Computer Engineering (ECE) department at Carnegie Mellon University (CMU). 
 my research interests span across _applied probability and statistics_ with a focus on 
-_modeling_, _analysis_ and _learning_ for **networked systems**, to enhance the fundamental understanding of the underlying driven dynamics for emergent phenomena, 
+_modeling_, _analysis_ and _learning_ for **networked systems**, to enhance the fundamental understanding of the underlying driven dynamics 
+for phenomena of scientific and societal importance, 
 deriving strategies to improve the cybersecurity measures in these systems.
 I am advised by Prof. Osman Yagan at CMU ECE and am a member of the [IDeaS Center](https://www.cmu.edu/ideas-social-cybersecurity/) at CMU. 
 My work allows me the honor of collaborating with notable scholars such as [Chai Wah Wu](https://ieeexplore.ieee.org/author/37276424300) from [IBM T. J. Watson Research Center](https://research.ibm.com/labs/yorktown-heights), 
