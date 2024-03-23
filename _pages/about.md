@@ -31,6 +31,7 @@ my research interests span across _applied probability and statistics_ with a fo
 _modeling_, _analysis_ and _learning_ for **networked systems**, to enhance the fundamental understanding of the underlying driven dynamics 
 for phenomena of scientific and societal importance, 
 deriving strategies to improve the cybersecurity measures in these systems, providing insights into downstream applications and tasks.
+
 I am advised by Prof. Osman Yagan at CMU ECE and am a member of the [IDeaS Center](https://www.cmu.edu/ideas-social-cybersecurity/) at CMU. 
 My work allows me the honor of collaborating with notable scholars such as [Chai Wah Wu](https://ieeexplore.ieee.org/author/37276424300) from [IBM T. J. Watson Research Center](https://research.ibm.com/labs/yorktown-heights), 
 and [H. Vincent Poor](https://ece.princeton.edu/people/h-vincent-poor) and [Simon A. Levin](https://slevin.princeton.edu/) from Princeton University.
