@@ -27,13 +27,12 @@ td, th {
 
 [//]: # ([Simon A. Levin]&#40;https://slevin.princeton.edu/&#41; from Princeton University. )
 I am a Ph.D. candidate (third year) in the Electrical and Computer Engineering (ECE) department at Carnegie Mellon University (CMU). 
-My research interests span across _applied probability and statistics_ with a focus on **networked systems**, 
-and the exploration of **machine learning (ML)** and **deep learning (DL)** techniques for enhancing cybersecurity measures in these systems. 
+my research interests span across _applied probability and statistics_ with a focus on 
+_modeling_, _analysis_ and _learning_ for **networked systems**, to enhance the fundamental understanding of the underlying driven dynamics for emergent phenomena, 
+deriving strategies to improve the cybersecurity measures in these systems.
 I am advised by Prof. Osman Yagan at CMU ECE and am a member of the [IDeaS Center](https://www.cmu.edu/ideas-social-cybersecurity/) at CMU. 
 My work allows me the honor of collaborating with notable scholars such as [Chai Wah Wu](https://ieeexplore.ieee.org/author/37276424300) from [IBM T. J. Watson Research Center](https://research.ibm.com/labs/yorktown-heights), 
-and [H. Vincent Poor](https://ece.princeton.edu/people/h-vincent-poor) and [Simon A. Levin](https://slevin.princeton.edu/) from Princeton University. 
-This multifaceted approach enables me to tackle complex challenges in network security by leveraging 
-the statistical foundations of ML and DL to develop robust, adaptive defense mechanisms.
+and [H. Vincent Poor](https://ece.princeton.edu/people/h-vincent-poor) and [Simon A. Levin](https://slevin.princeton.edu/) from Princeton University.
 
 I obtained my Master's degree at CMU ECE in December 2021, 
 during which I feel extremely lucky to have worked with several amazing faculties at CMU: 
