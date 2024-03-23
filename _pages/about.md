@@ -27,7 +27,7 @@ td, th {
 
 [//]: # ([Simon A. Levin]&#40;https://slevin.princeton.edu/&#41; from Princeton University. )
 I am a Ph.D. candidate (third year) in the Electrical and Computer Engineering (ECE) department at Carnegie Mellon University (CMU). 
-my research interests span across _applied probability and statistics_ with a focus on 
+My research interests span across _applied probability and statistics_ with a focus on 
 _modeling_, _analysis_ and _learning_ for **networked systems**, to enhance the fundamental understanding of the underlying driven dynamics 
 for phenomena of scientific and societal importance, 
 deriving strategies to improve the cybersecurity measures in these systems, providing insights into downstream applications and tasks.
